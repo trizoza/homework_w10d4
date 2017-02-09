@@ -1,0 +1,18 @@
+{
+  "name": "enumeration_lab",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "description": "",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
